@@ -1,2 +1,2 @@
-# NLI_Tutorial
-This page is for a tutorial of Natural Language Interfaces for Tabular Data Querying and Visualization
+# Tutorial: Natural Language Interfaces for Tabular Data Querying and Visualization
+This page is for a tutorial on Natural Language Interfaces for Tabular Data Querying and Visualization
