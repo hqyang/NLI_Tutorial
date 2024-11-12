@@ -1,4 +1,4 @@
-# Tutorial: Next-Generation Data Access: Natural Language Interfaces for Tabular Data Querying and Visualization
+# Next-Generation Data Access: Natural Language Interfaces for Tabular Data Querying and Visualization
 
 This repository contains materials and resources for understanding the recent research progress on natural language interfaces for data analysis and visualization.
 
