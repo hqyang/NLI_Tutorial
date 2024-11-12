@@ -40,7 +40,7 @@ Natural Language Interfaces (NLIs) are revolutionizing how users interact with d
 
 ## Getting Started
 
-### READ-SQL
+### 
 
 
 ## Contributing
